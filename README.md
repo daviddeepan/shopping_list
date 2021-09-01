@@ -1,2 +1,2 @@
-# shopping_list
-Experiment with Electron JS
+# To-Do-list
+Experimenting with electron JS

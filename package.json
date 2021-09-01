@@ -1,0 +1,22 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "Shopping List",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviddeepan/To-Do-list.git"
+  },
+  "author": "David Deepan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daviddeepan/To-Do-list/issues"
+  },
+  "homepage": "https://github.com/daviddeepan/To-Do-list#readme",
+  "dependencies": {
+    "electron": "^14.0.0"
+  }
+}
